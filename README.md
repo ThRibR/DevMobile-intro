@@ -15,26 +15,3 @@ Badges:
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
-
-*Descrição do Projeto:
-
-
-*Status do Projeto:
-Em andamento
-
-*Funcionalidades e Demonstração da Aplicação:
-
-
-*Acesso ao Projeto:
-
-
-*Tecnologias utilizadas:
-Kotlin e Java
-
-*Pessoas Contribuidoras:
-
-
-*Pessoas Desenvolvedoras do Projeto:
-Thainá R.R
-
-Licença:
