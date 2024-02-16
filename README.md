@@ -1,7 +1,5 @@
 <h1 align="center"> DevMobile </h1>
 
-Badges:
-
 
 Índice:
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
