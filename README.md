@@ -16,25 +16,25 @@ Badges:
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-Descrição do Projeto:
+*Descrição do Projeto:
 
 
-Status do Projeto:
+*Status do Projeto:
 Em andamento
 
-Funcionalidades e Demonstração da Aplicação:
+*Funcionalidades e Demonstração da Aplicação:
 
 
-Acesso ao Projeto:
+*Acesso ao Projeto:
 
 
-Tecnologias utilizadas:
+*Tecnologias utilizadas:
 Kotlin e Java
 
-Pessoas Contribuidoras:
+*Pessoas Contribuidoras:
 
 
-Pessoas Desenvolvedoras do Projeto:
+*Pessoas Desenvolvedoras do Projeto:
 Thainá R.R
 
 Licença:
