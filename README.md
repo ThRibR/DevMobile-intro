@@ -26,6 +26,7 @@
 <h2>Tecnologias Utilizadas: </h2>
  <p>Intellij IDEA</p>
  <p>Java</p>
+ <p>Kotlin</p>
  
 <h2> Desenvolvido por: </h2>
 
