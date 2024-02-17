@@ -28,8 +28,9 @@
  <p>Java</p>
  <p>Kotlin</p>
  
-<h2> Desenvolvido por: </h2>
+<h2> Pessoa(s) Desenvolvedor(as) do Projeto: </h2>
 
+#Autora:
 | [<img loading="lazy" src="https://github.com/ThRibR/DevMobile/assets/159657768/7865cf15-8624-431b-8a3e-587872a76b3d" width=115><br><sub>Thainá Ribeiro Rocco</sub>](https://github.com/ThRibR) |
 | :---: |
   
