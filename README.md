@@ -19,17 +19,17 @@
 </p>
 
 <h2> Funcionalidades e Demonstração da Aplicação: </h2>
-- Funcionalidade 1: 
+- Funcionalidade : 
 
 <h2> Acesso ao Projeto: </h2>
 
-<p>Por enquanto, </p>
+<p>Por enquanto, para acessar e/ou baixar o meu projeto, você pode encontra-lo nos arquivos acima do readme. Onde poderá baixar e realizar as ações que assim você desejar, e ir acompanhando o processo de mais perto! </p>
 
 
 
 <h2>Tecnologias Utilizadas: </h2>
- * Intellij IDEA
- * Java
+ <p>#Intellij IDEA</p>
+ <p>Java</p>
  
 <h2> Desenvolvido por: </h2>
 
