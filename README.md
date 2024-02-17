@@ -5,7 +5,7 @@
 </p>
 
 Índice:
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Acesso ao Projeto](#acesso-ao-projeto)
