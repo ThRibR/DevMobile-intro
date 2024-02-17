@@ -8,18 +8,14 @@
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
+
 
 <h2> Descrição do Projeto: </h2>
-<p>É um projeto que ainda está na fase de desenvolvimento. Até o momento não possui muitos detalhes sobre o que ele realiza, mas será desenvolvido com um objetivo centrado em resolução de um problema que encontramos no nosso dia a dia
+<p>É um projeto que ainda está na fase de desenvolvimento. Até o momento não possui muitos detalhes sobre o que ele realiza, mas será desenvolvido com um objetivo central de resolução de um problema que encontramos no nosso dia a dia
 </p>
-
-<h2> Funcionalidades e Demonstração da Aplicação: </h2>
-- Funcionalidade : 
 
 <h2> Acesso ao Projeto: </h2>
 
@@ -28,7 +24,7 @@
 
 
 <h2>Tecnologias Utilizadas: </h2>
- <p>#Intellij IDEA</p>
+ <p>Intellij IDEA</p>
  <p>Java</p>
  
 <h2> Desenvolvido por: </h2>
